@@ -71,7 +71,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'myawesomeblog.wsgi.application'
 
 
-# Database
+# Database1
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 DATABASES = {
@@ -79,7 +79,7 @@ DATABASES = {
       'ENGINE': 'django.db.backends.postgresql',
       'NAME': 'myawesomeblogdb',
       'USER': 'postgres',
-      'PASSWORD': 'Aa123Aab',
+      'PASSWORD': 'Aa123Aabd',
       'HOST': 'localhost',
       'PORT': '5432', 
 
